@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lego Star-wars Weekend",
+        "descripcion": "¡Grab your cosplay and come to join the biggest Lego Star-wars community in a weekend full of activities!",
+        "fecha": "2022",
+        "texto": "¡Tickets now available!",
+        "ubicacion": "New York",
+        "foto1": "https://attractionsmagazine.com/wp-content/uploads/2018/05/Lego-Star-Wars-Building-Event-Featured-Photo.jpg",
+        "alt1": "A large Millenium Falcon made of Lego",
+        "foto2": "https://estaticos-cdn.elperiodico.com/clip/b56aea2e-5931-46dc-aed1-cb96d272092d_16-9-aspect-ratio_default_0.jpg",
+        "alt2": "Real scale Star-wars airship made of Lego",
+        "foto3": "https://www.kotaku.com.au/content/uploads/sites/3/2013/06/19/18r8a8tck5zqzjpg.jpg",
+        "alt3": "Star-wars aership base made of Lego"
+    },
+    {
+        "id": 2,
+        "nombre": "Lego Maquette Exposition",
+        "descripcion": "A very good experience focused in the art of making Lego train maquette, looking at incredible structures from associations from around the world",
+        "fecha": "2010",
+        "texto": "Expo once a year",
+        "ubicacion": "Dublin",
+        "foto1": "https://assets-varnish.triblive.com/2019/07/1416077_web1_te-trainshow9-112218.jpg",
+        "alt1": "Lego Train Convention with spectators",
+        "foto2": "https://images.squarespace-cdn.com/content/v1/51967abae4b0fe8d0161031f/1630294184817-RX7AGGCDRAG5OM3QA9WA/TitleShot.jpg?format=1000w",
+        "alt2": "Lego Train Convention",
+        "foto3": "https://images.squarespace-cdn.com/content/v1/51967abae4b0fe8d0161031f/1630288173341-NGYQ527XR5WC47EN349K/51404425723_bb904fdebd_o.jpg",
+        "alt3": "Lego Train Maquette"
+    },
+    {
+        "id": 3,
+        "nombre": "Kidfesto",
+        "descripcion": "Covering over three acres of space, the LEGO KidsFest brings all of the creative hands-on, minds-on fun of LEGO building and experiences together in an activity- and  entertainment-packed family event for children of all ages and builders of all skills and interests.",
+        "fecha": "2015",
+        "texto": "Expo once a year",
+        "ubicacion": "Londres",
+        "foto1": "https://www.simplybudgeted.com/wp-content/uploads/2013/01/lego8.jpg",
+        "alt1": "Kids festival 1",
+        "foto2": "https://rfm-siteassets.s3.amazonaws.com/wp-content/uploads/20180625192719/image003.jpg",
+        "alt2": "Kids festival 2",
+        "foto3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWokaUbEz-jZ6zQa3GKcC04xEUkq1FCLtKaGSKGCyBDtHZb8ZPc7-fBzIkhj6hIagJKLw&usqp=CAU",
+        "alt3": "Kids festival 3"
+    },
+    {
+        "id": 4,
+        "nombre": "Block party",
+        "descripcion": "The Brick Universe LEGO Convention is celebrating the spirit of all things LEGO this weekend in the East Wing of the Kentucky Expo Center. With dozens of highly detailed creations on display, fans are treated to up close views of award-winning work, while meeting the world-renowned artists behind the elaborate set pieces. ",
+        "fecha": "2018",
+        "texto": "Open permanently",
+        "ubicacion": "Barcelona",
+        "foto1": "https://photos.smugmug.com/Portfolio/Courier-Journal/2018/17161717-Brick-Universe-LEGO-Convention-1618/i-sPsnHsz/1/8de8eaa3/M/BrickUniverse%28LEGOconvention%29--PEARL%2B22-M.jpg",
+        "alt1": "Lego minifigures exposition",
+        "foto2": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/e/37/e3727def-4f74-555a-9817-522f5d38164b/60c4f7d5199b9.image.jpg?resize=1200%2C812",
+        "alt2": "Lego minifigures shop",
+        "foto3": "https://i.ytimg.com/vi/onwbG_umqKk/maxresdefault.jpg",
+        "alt3": "Container of bricks"
+    }
+]
